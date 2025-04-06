@@ -18,14 +18,17 @@ My journey in Information Technology  has led me to develop a passion for cybers
 |Network Management                  | CISCO Networking Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <div>
+  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1C6B83?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
+     <div>
+  <img src="https://img.shields.io/badge/-PuTTY-000000?&style=for-the-badge&logo=putty&logoColor=white" />
+</div>
+
 
 ### Endpoint
 <div>
