@@ -11,12 +11,11 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization          | <a href="https://google.com">Detection Lab</a>|
-| Windows Server Management | <a href="https://google.com">Detection Lab</a>|
-| Firewall Rules & Configuration         | SOC Automation Lab|
-| Network Device Configurtaion      | SOC Automation Lab|
-|Network Management                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Virtualization          | <a href="https://google.com">Pen Testing Home Lab</a>|
+| Windows Server Management | <a href="https://google.com"> Windows Active Directory Lab</a>|
+| Firewall Rules & Configuration         | Windows Defender Lab|
+| Network Device Configurtaion      | CISCO Networking Lab|
+|Network Management                  | CISCO Networking Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
