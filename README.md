@@ -19,7 +19,7 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 ## Tools
 
-### Network
+### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <div>
@@ -40,12 +40,12 @@ My journey in Information Technology  has led me to develop a passion for cybers
   <img src="https://img.shields.io/badge/-Windows%20IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### VIRTUALIZATION
+### Virtualization
 <div>
   <img src="https://img.shields.io/badge/-VirtualBox-1E4E8C?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
-### OTHER
+### Other
 <div>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
