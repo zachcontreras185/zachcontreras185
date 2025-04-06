@@ -29,23 +29,21 @@ My journey in Information Technology  has led me to develop a passion for cybers
   <img src="https://img.shields.io/badge/-PuTTY-000000?&style=for-the-badge&logo=putty&logoColor=white" />
 </div>
 
-
-### Endpoint
+### Windows 
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%20Active%20Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Windows%20Defender-00B140?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Windows%20IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
 <img src="https://img.shields.io/badge/-TestOut%20Network%2B-FF0000?&style=for-the-badge&logo=TestOut&logoColor=white" />
 <img src="https://img.shields.io/badge/-TestOut%20Security%2B-FF0000?&style=for-the-badge&logo=TestOut&logoColor=white" />
 
