@@ -40,14 +40,22 @@ My journey in Information Technology  has led me to develop a passion for cybers
   <img src="https://img.shields.io/badge/-Windows%20IIS-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### SIEM
+### VIRTUALIZATION
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-1E4E8C?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
 
+### OTHER
+<div>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C88?&style=for-the-badge&logo=kali&logoColor=white" />
+</div>
 
 ## Certifications
 <img src="https://img.shields.io/badge/-TestOut%20Network%2B-FF0000?&style=for-the-badge&logo=TestOut&logoColor=white" />
 <img src="https://img.shields.io/badge/-TestOut%20Security%2B-FF0000?&style=for-the-badge&logo=TestOut&logoColor=white" />
-
-
 
 ## Projects
 - Pen Testing Home Lab
