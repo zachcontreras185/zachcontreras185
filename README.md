@@ -50,5 +50,8 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Pen Testing Home Lab
+- Windows Active Directory Lab
+- Windows Defender Lab
+- CISCO Switch Configuriation 
+
