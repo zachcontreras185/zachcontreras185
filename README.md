@@ -11,7 +11,7 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization          | <a href="https://google.com">Pen Testing Home Lab</a>|
+| Virtualization          | <a href="https://github.com/zachcontreras185/Pen-Testing-Home-Lab/blob/main/README.md">Pen Testing Home Lab</a>|
 | Windows Server Management | <a href="https://google.com"> Windows Active Directory Lab</a>|
 | Firewall Rules & Configuration         | Windows Defender Lab|
 | Network Device Configurtaion      | CISCO Networking Lab|
