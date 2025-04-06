@@ -13,9 +13,9 @@ My journey in Information Technology  has led me to develop a passion for cybers
 |-----------------------------------------------|----------------------------|
 | Virtualization          | <a href="https://github.com/zachcontreras185/Pen-Testing-Home-Lab/blob/main/README.md">Pen Testing Home Lab</a>|
 | Windows Server Management | <a href="https://github.com/zachcontreras185/Windows-Active-Directory-Lab/tree/main"> Windows Active Directory Lab</a>|
-| Firewall Rules & Configuration         | Windows Defender Lab|
-| Network Device Configurtaion      | CISCO Networking Lab|
-|Network Management                  | CISCO Networking Lab|
+| Firewall Rules & Configuration         | <a href="https://github.com/zachcontreras185/Windows-Defender-Lab"> Windows Defender Lab|
+| Network Device Configurtaion      | <a href="https://github.com/zachcontreras185/Cisco-Networking-Lab/blob/main/README.md"> CISCO Networking Lab|
+|Network Management                  | <a href="https://github.com/zachcontreras185/Cisco-Networking-Lab/blob/main/README.md"> CISCO Networking Lab|
 
 ## Tools
 
