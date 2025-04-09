@@ -1,5 +1,5 @@
 # Hello, I'm Zachary Contreras 
-<a href="https://www.linkedin.com/in/zachary-contreras-52962a2b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/zachary-contreras-52962a2b6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Computer Information Technology student nearing graduation with a profound interest in cybersecurity, technology, and a dedication to solving complex problems.
 
