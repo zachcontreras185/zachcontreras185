@@ -1,11 +1,11 @@
 # Hello, I'm Zachary Contreras 
 <a href="https://www.linkedin.com/in/zachary-contreras-52962a2b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student nearing graduation with a profound interest in technology and a dedication to solving complex problems and cooperation.
+I am a Computer Information Technology student nearing graduation with a profound interest in cybersecurity, technology, and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in Information Technology  has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Managed Service Provider (MSP) as an IT Technician.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Managed Service Provider (MSP) as an IT Technician.
 
 ## Skills
 
