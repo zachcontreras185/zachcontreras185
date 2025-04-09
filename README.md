@@ -61,5 +61,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - Pen Testing Home Lab
 - Windows Active Directory Lab
 - Windows Defender Lab
-- CISCO Switch Configuriation 
+- Cisco Networking Lab 
 
