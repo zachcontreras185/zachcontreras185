@@ -1,5 +1,5 @@
 # Hello, I'm Zachary Contreras 
-I am a Computer Information Systems student nearing graduation with a profound interest in cybersecurity, technology, and a dedication to solving complex problems.
+I am a recently graduated Computer Information Systems student with a profound interest in cybersecurity, technology, and a dedication to solving complex problems.
 
 ## Objective
 
