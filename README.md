@@ -50,6 +50,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C88?&style=for-the-badge&logo=kali&logoColor=white" />
 </div>
+<img src="https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
 
 ## Certifications
 <img src="https://img.shields.io/badge/-TestOut%20Network%2B-FF0000?&style=for-the-badge&logo=TestOut&logoColor=white" />
